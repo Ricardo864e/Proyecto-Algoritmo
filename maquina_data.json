@@ -1,0 +1,499 @@
+{
+    "inventario": {
+        "1A": {
+            "codigo": "CocaC",
+            "nombre": "Coca-Cola Classic 355 ml",
+            "precio": 1.1,
+            "stock": 3,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Disfruta de tu Coca-Cola bien fr\u00eda!",
+            "vendidos": 4
+        },
+        "1B": {
+            "codigo": "CocaZ",
+            "nombre": "Coca-Cola Zero 355 ml",
+            "precio": 1.2,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1M\u00e1s sabor, menos azucar!",
+            "vendidos": 0
+        },
+        "1C": {
+            "codigo": "CocaL",
+            "nombre": "Coca-Cola Light 355 ml",
+            "precio": 1.2,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Este es tu sabor, disfr\u00fatalo!",
+            "vendidos": 0
+        },
+        "1D": {
+            "codigo": "Fanta",
+            "nombre": "Fanta Naranja 355 ml",
+            "precio": 1.2,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Fanta Naranja es un Hit!",
+            "vendidos": 0
+        },
+        "2A": {
+            "codigo": "Chint",
+            "nombre": "Chinotto 355 ml",
+            "precio": 1.1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Disfruta la bebida c\u00edtrica n\u00famero uno en el mundo!",
+            "vendidos": 0
+        },
+        "2B": {
+            "codigo": "Aguak",
+            "nombre": "Aguakina Schweppes 355 ml",
+            "precio": 1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "T\u00f3mate tu tiempo con Schweppes",
+            "vendidos": 0
+        },
+        "2C": {
+            "codigo": "PowrA",
+            "nombre": "Powerade 500 ml",
+            "precio": 1.5,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1La pausa es poder con Powerade!",
+            "vendidos": 0
+        },
+        "2D": {
+            "codigo": "Nevada",
+            "nombre": "Nevada 500 ml",
+            "precio": 0.7,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Nevada es el agua mineral!",
+            "vendidos": 0
+        },
+        "3A": {
+            "codigo": "Pepsi",
+            "nombre": "Pepsi lata 355 ml",
+            "precio": 1.1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Pepsi: \u00a1Es lo que te gusta!",
+            "vendidos": 0
+        },
+        "3B": {
+            "codigo": "PepsL",
+            "nombre": "Pepsi light 355 ml",
+            "precio": 1.1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Pepsi Light: disfruta sin calor\u00edas",
+            "vendidos": 0
+        },
+        "3C": {
+            "codigo": "PepsiZ",
+            "nombre": "Pepsi Cero Azucar",
+            "precio": 1.1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Cero Azucar: cero calor\u00edas!",
+            "vendidos": 0
+        },
+        "3D": {
+            "codigo": "Goldn",
+            "nombre": "Golden naranja lata 355 ml",
+            "precio": 1.1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Golden: \u00a1El sabor de tu diversi\u00f3n!",
+            "vendidos": 0
+        },
+        "4A": {
+            "codigo": "SvnUp",
+            "nombre": "SevenUp 355 ml",
+            "precio": 1.2,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "7UP: mereces lo mejor",
+            "vendidos": 0
+        },
+        "4B": {
+            "codigo": "Malta",
+            "nombre": "Malt\u00edn Polar lata",
+            "precio": 1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Malt\u00edn Polar: Energ\u00eda natural!",
+            "vendidos": 0
+        },
+        "4C": {
+            "codigo": "Gator",
+            "nombre": "Gatorade 500 ml",
+            "precio": 1.5,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Gatorade: \u00a1nada funciona mejor!",
+            "vendidos": 0
+        },
+        "4D": {
+            "codigo": "Minalba",
+            "nombre": "Minalba 500 ml",
+            "precio": 0.65,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Minalba: Agua pura de manantial",
+            "vendidos": 0
+        },
+        "5A": {
+            "codigo": "Ruffl",
+            "nombre": "Ruffles Deli Size",
+            "precio": 2,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Disfruta tus Ruffles onduladas",
+            "vendidos": 0
+        },
+        "5B": {
+            "codigo": "Dorit",
+            "nombre": "Doritos Deli Size",
+            "precio": 2.25,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Doritos para los atrevidos",
+            "vendidos": 0
+        },
+        "5C": {
+            "codigo": "Cheet",
+            "nombre": "Cheetos Deli Size",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Es cosa de Cheetos",
+            "vendidos": 0
+        },
+        "5D": {
+            "codigo": "Lays",
+            "nombre": "Lays Deli Size",
+            "precio": 1.5,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "A que no puedes comer solo una",
+            "vendidos": 0
+        },
+        "6A": {
+            "codigo": "Munch",
+            "nombre": "Munchies",
+            "precio": 0.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Qu\u00e9 munchy este momento!",
+            "vendidos": 0
+        },
+        "6B": {
+            "codigo": "Platn",
+            "nombre": "Platanitos Caribas",
+            "precio": 0.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Disfruta Platanitos Caribas por sus sabor!",
+            "vendidos": 0
+        },
+        "6C": {
+            "codigo": "Yuqts",
+            "nombre": "Yuquitas Caribas",
+            "precio": 0.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Disfruta Yuquitas Caribas por su sabor!",
+            "vendidos": 0
+        },
+        "6D": {
+            "codigo": "NatuC",
+            "nombre": "NatuChips originales",
+            "precio": 0.85,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Disfruta el verdadero pl\u00e1tano original",
+            "vendidos": 0
+        },
+        "7A": {
+            "codigo": "NatuL",
+            "nombre": "NatuChips con lim\u00f3n",
+            "precio": 0.85,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Disfruta el verdadero sabor a lim\u00f3n",
+            "vendidos": 0
+        },
+        "7B": {
+            "codigo": "Savoy",
+            "nombre": "Chocolate Savoy 100 g",
+            "precio": 0.6,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Savoy con sabor venezolano!",
+            "vendidos": 0
+        },
+        "7C": {
+            "codigo": "Savo2",
+            "nombre": "Chocolate Savoy 130 g",
+            "precio": 0.85,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Savoy con sabor venezolano!",
+            "vendidos": 0
+        },
+        "7D": {
+            "codigo": "Savo3",
+            "nombre": "Chocolate Savoy 150 g",
+            "precio": 1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Savoy con sabor venezolano!",
+            "vendidos": 0
+        },
+        "8A": {
+            "codigo": "Savo4",
+            "nombre": "Chocolate Savoy 175 g",
+            "precio": 1.25,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Savoy con sabor venezolano!",
+            "vendidos": 0
+        },
+        "8B": {
+            "codigo": "Savo5",
+            "nombre": "Savoy Carr\u00e9",
+            "precio": 1.5,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Savoy con sabor venezolano!",
+            "vendidos": 0
+        },
+        "8C": {
+            "codigo": "Hrshy",
+            "nombre": "Barra Hershey's 43 g",
+            "precio": 0.5,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Hershey's: El sabor de los buenos recuerdos",
+            "vendidos": 0
+        },
+        "8D": {
+            "codigo": "Hrsh2",
+            "nombre": "Barra Hershey's 74 g",
+            "precio": 1,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Hershey's: El sabor de los buenos recuerdos",
+            "vendidos": 0
+        },
+        "9A": {
+            "codigo": "Hrsh3",
+            "nombre": "Barra Hershey's 124 g",
+            "precio": 1.5,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Hershey's: El sabor de los buenos recuerdos",
+            "vendidos": 0
+        },
+        "9B": {
+            "codigo": "KitKt",
+            "nombre": "Barra KitKat",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Date un break, date un KitKat!",
+            "vendidos": 0
+        },
+        "9C": {
+            "codigo": "Reese",
+            "nombre": "Reese's Peanut Butter Cups",
+            "precio": 2.25,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Todo por un Reese's!",
+            "vendidos": 0
+        },
+        "9D": {
+            "codigo": "CnchF",
+            "nombre": "Cronch Flakes lonchera",
+            "precio": 1.6,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Cronch Flakes es enriquecido con 8 vitaminas y hierro",
+            "vendidos": 0
+        },
+        "10A": {
+            "codigo": "Azucr",
+            "nombre": "Hojuelas Azucaradas lonchera",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Crocantes y deliciosas hojuelas de ma\u00edz azucaradas",
+            "vendidos": 0
+        },
+        "10B": {
+            "codigo": "ChocS",
+            "nombre": "Choco Safari lonchera",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Formas divertidas de animales",
+            "vendidos": 0
+        },
+        "10C": {
+            "codigo": "ChocC",
+            "nombre": "Choco Cronch lonchera",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Cereal expandido con sabor a chocolate",
+            "vendidos": 0
+        },
+        "10D": {
+            "codigo": "Abcts",
+            "nombre": "Abcitoos Lonchera",
+            "precio": 1.7,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Crocante y delicioso con divertidas formas de letras",
+            "vendidos": 0
+        },
+        "11A": {
+            "codigo": "PopCr",
+            "nombre": "Pop Cronch Lonchera",
+            "precio": 1.85,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Crocante y dulce en forma de divertidas esferas",
+            "vendidos": 0
+        },
+        "11B": {
+            "codigo": "PopCC",
+            "nombre": "Pop Cronch chocolate",
+            "precio": 1.9,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Sabor a chocolate en forma de divertidas esferas",
+            "vendidos": 0
+        },
+        "11C": {
+            "codigo": "Fruty",
+            "nombre": "Fruty Aros Lonchera",
+            "precio": 1.8,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Forma de divertidos aros de colores con sabor a frutas",
+            "vendidos": 0
+        },
+        "11D": {
+            "codigo": "CornF",
+            "nombre": "Corn Flakes de Kelloggs",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Tu cereal de Confianza",
+            "vendidos": 0
+        },
+        "12A": {
+            "codigo": "Zucar",
+            "nombre": "Zucaritas Fun Size",
+            "precio": 1.85,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Rrrrrrrriqu\u00edsimas!",
+            "vendidos": 0
+        },
+        "12B": {
+            "codigo": "ChocZ",
+            "nombre": "ChocoZucarits Fun Fize",
+            "precio": 1.99,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Energ\u00eda para ganar!",
+            "vendidos": 0
+        },
+        "12C": {
+            "codigo": "Froot",
+            "nombre": "Froot Loops Fun Size",
+            "precio": 1.99,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Son Frutidiveridos!",
+            "vendidos": 0
+        },
+        "12D": {
+            "codigo": "CornP",
+            "nombre": "Corn Pops Fun Size",
+            "precio": 1.95,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "\u00a1Necesito mis bolitas Corn Pops!",
+            "vendidos": 0
+        },
+        "13A": {
+            "codigo": "PopTF",
+            "nombre": "Pop Tarts Fresa (2 unidades)",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Delicia pegajosita para llevar",
+            "vendidos": 0
+        },
+        "13B": {
+            "codigo": "PopTC",
+            "nombre": "Pop Tarts Canela (2 unidades)",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Delicia pegajosita para llevar",
+            "vendidos": 0
+        },
+        "13C": {
+            "codigo": "PopTA",
+            "nombre": "Pop Tarts Ar\u00e1ndano (2 unidades)",
+            "precio": 1.75,
+            "stock": 5,
+            "stock_inicial": 5,
+            "mensaje_despedida": "Delicia pegajosita para llevar",
+            "vendidos": 0
+        },
+        "1E": {
+            "codigo": "e",
+            "nombre": "e",
+            "precio": 3.0,
+            "stock": 3,
+            "stock_inicial": 3,
+            "mensaje_despedida": "e",
+            "vendidos": 0
+        }
+    },
+    "tarjetas": [
+        {
+            "hash_numero": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+            "saldo": 128.64,
+            "total_gastado": 0.0
+        },
+        {
+            "hash_numero": "7619ee8cea49187f309616e30ecf54be072259b43760f1f550a644945d5572f2",
+            "saldo": 997.79,
+            "total_gastado": 2.2
+        },
+        {
+            "hash_numero": "4342ad90e8f17dab7ea31702a240fe352b60c6f8ce211c1c882fe8a2878283ff",
+            "saldo": 12.08,
+            "total_gastado": 0.0
+        },
+        {
+            "hash_numero": "5c9330b765fb53ee68b47fdef8143b2eb14a7a60c5e4ff14a5d4c370c874534f",
+            "saldo": 8.12,
+            "total_gastado": 0.0
+        },
+        {
+            "hash_numero": "179b1a3e9e319cff0ca6671e07a62dad7d087b0f2a89eef0202612c3cb46baf9",
+            "saldo": 0.5,
+            "total_gastado": 0.0
+        }
+    ]
+}

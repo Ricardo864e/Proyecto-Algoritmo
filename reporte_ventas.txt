@@ -1,0 +1,284 @@
+REPORTE DE SISTEMA MAQUINA EXPENDEDORA
+
+
+  REPORTE DE PRODUCTOS
+
+     Coordenada: 1A / Nombre: Coca-Cola Classic 355 ml / Código: CocaC
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 1B / Nombre: Coca-Cola Zero 355 ml / Código: CocaZ
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 1C / Nombre: Coca-Cola Light 355 ml / Código: CocaL
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 1D / Nombre: Fanta Naranja 355 ml / Código: Fanta
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 2A / Nombre: Chinotto 355 ml / Código: Chint
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 2B / Nombre: Aguakina Schweppes 355 ml / Código: Aguak
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 2C / Nombre: Powerade 500 ml / Código: PowrA
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 2D / Nombre: Nevada 500 ml / Código: Nevada
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 3A / Nombre: Pepsi lata 355 ml / Código: Pepsi
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 3B / Nombre: Pepsi light 355 ml / Código: PepsL
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 3C / Nombre: Pepsi Cero Azucar / Código: PepsiZ
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 3D / Nombre: Golden naranja lata 355 ml / Código: Goldn
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 4A / Nombre: SevenUp 355 ml / Código: SvnUp
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 4B / Nombre: Maltín Polar lata / Código: Malta
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 4C / Nombre: Gatorade 500 ml / Código: Gator
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 4D / Nombre: Minalba 500 ml / Código: Minalba
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 5A / Nombre: Ruffles Deli Size / Código: Ruffl
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 5B / Nombre: Doritos Deli Size / Código: Dorit
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 5C / Nombre: Cheetos Deli Size / Código: Cheet
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 5D / Nombre: Lays Deli Size / Código: Lays
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 6A / Nombre: Munchies / Código: Munch
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 6B / Nombre: Platanitos Caribas / Código: Platn
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 6C / Nombre: Yuquitas Caribas / Código: Yuqts
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 6D / Nombre: NatuChips originales / Código: NatuC
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 7A / Nombre: NatuChips con limón / Código: NatuL
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 7B / Nombre: Chocolate Savoy 100 g / Código: Savoy
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 7C / Nombre: Chocolate Savoy 130 g / Código: Savo2
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 7D / Nombre: Chocolate Savoy 150 g / Código: Savo3
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 8A / Nombre: Chocolate Savoy 175 g / Código: Savo4
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 8B / Nombre: Savoy Carré / Código: Savo5
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 8C / Nombre: Barra Hershey's 43 g / Código: Hrshy
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 8D / Nombre: Barra Hershey's 74 g / Código: Hrsh2
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 9A / Nombre: Barra Hershey's 124 g / Código: Hrsh3
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 9B / Nombre: Barra KitKat / Código: KitKt
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 9C / Nombre: Reese's Peanut Butter Cups / Código: Reese
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 9D / Nombre: Cronch Flakes lonchera / Código: CnchF
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 10A / Nombre: Hojuelas Azucaradas lonchera / Código: Azucr
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 10B / Nombre: Choco Safari lonchera / Código: ChocS
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 10C / Nombre: Choco Cronch lonchera / Código: ChocC
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 10D / Nombre: Abcitoos Lonchera / Código: Abcts
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 11A / Nombre: Pop Cronch Lonchera / Código: PopCr
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 11B / Nombre: Pop Cronch chocolate / Código: PopCC
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 11C / Nombre: Fruty Aros Lonchera / Código: Fruty
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 11D / Nombre: Corn Flakes de Kelloggs / Código: CornF
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 12A / Nombre: Zucaritas Fun Size / Código: Zucar
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 12B / Nombre: ChocoZucarits Fun Fize / Código: ChocZ
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 12C / Nombre: Froot Loops Fun Size / Código: Froot
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 12D / Nombre: Corn Pops Fun Size / Código: CornP
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 13A / Nombre: Pop Tarts Fresa (2 unidades) / Código: PopTF
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 13B / Nombre: Pop Tarts Canela (2 unidades) / Código: PopTC
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 13C / Nombre: Pop Tarts Arándano (2 unidades) / Código: PopTA
+     Stock inicial: 5
+     Stock actual: 5
+     Cantidad de vendidos: 0
+
+     Coordenada: 1E / Nombre: e / Código: e
+     Stock inicial: 3
+     Stock actual: 3
+     Cantidad de vendidos: 0
+
+
+  RESUMEN GENERAL
+
+     Número total de productos vendidos: 4
+     Cantidad total de dinero cobrado: $2.20
+     Número total de usuarios: 5
+
+
+  GASTOS POR USUARIO
+
+     Tarjeta hash: c775e7b757 / Gasto total: $0.00
+     Tarjeta hash: 7619ee8cea / Gasto total: $2.20
+     Tarjeta hash: 4342ad90e8 / Gasto total: $0.00
+     Tarjeta hash: 5c9330b765 / Gasto total: $0.00
+     Tarjeta hash: 179b1a3e9e / Gasto total: $0.00
+
+  HISTORIAL DE TRANSACCIONES (CRONOLÓGICO)
+
+     [2026-06-16 19:10:38] Tarjeta: 7619ee8cea... compró Coca-Cola Classic 355 ml por $1.10
